@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/likej2ee/PhoneGap-ios-PhoneDialer.git"
+    "url": "git+https://github.com/likej2ee/PhoneGap-ios-PhoneDialer.git"
   },
   "keywords": [
     "phonedialer"
