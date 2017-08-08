@@ -1,0 +1,22 @@
+{
+  "name": "com.phonegap.core.phonedialer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likej2ee/PhoneGap-ios-PhoneDialer.git"
+  },
+  "keywords": [
+    "phonedialer"
+  ],
+  "author": "j-mcnally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likej2ee/PhoneGap-ios-PhoneDialer/issues"
+  },
+  "homepage": "https://github.com/likej2ee/PhoneGap-ios-PhoneDialer#readme"
+}
